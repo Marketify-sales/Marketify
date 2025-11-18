@@ -1,0 +1,9 @@
+[programs.devnet]
+marketify = "FSoNXDpgsYZkp3VtPjPWPR2cQ5PMPt16SmLFm75A7FYh"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[workspace]
+members = ["smart-contract"]
